@@ -1,0 +1,4 @@
+#Fri Jan 27 14:41:26 IST 2023
+base.0=C\:\\Users\\hnod2\\StudioProjects\\weather app\\weatherapp\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
